@@ -9,8 +9,6 @@ A Discord clone built with Next.js, TailwindCSS, Stream, and Clerk. This project
 - [Running the Project](#running-the-project)
 - [Environment Variables](#environment-variables)
 - [Additional Information](#additional-information)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
