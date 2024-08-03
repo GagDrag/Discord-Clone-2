@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the project directory:
 
    ```
-   cd discord-clone-2
+   cd Discord-Clone-2
    ```
 
 3. Install the dependencies:
